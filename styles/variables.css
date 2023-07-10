@@ -1,0 +1,13 @@
+:root{
+    --fondo-primario: hsl(30, 38%, 92%);
+    --fondo-secundario: hsl(0, 0%, 100%);
+
+    --color-primario: hsl(212, 21%, 14%);
+    --color-secundario: hsl(228, 12%, 48%);
+
+    --color-verde-claro: hsl(158, 36%, 37%);
+    --color-verde: #1a4031;
+
+    --fuente-principal:"Fraunces", serif;
+    --fuente-secundaria: "Monserrat", sans-serif;
+}

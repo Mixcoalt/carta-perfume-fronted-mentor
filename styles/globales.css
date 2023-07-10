@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+body,
+p,
+h1,
+h2,
+h3,
+button{
+    margin: 0px;
+    padding: 0px;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+}
+
+button{
+    border: none;
+    background-color: transparent;
+}
